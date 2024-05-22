@@ -1,17 +1,14 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá Mundo, eu sou Augusto Castilho! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=green)
 
 ## Sobre mim
 
-Eu sou um desenvolvedor apaixonado por tecnologia e programação. Adoro aprender novas tecnologias e enfrentar desafios que me permitem crescer profissionalmente e pessoalmente.
+Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolução constante.
 
-- 🌱 Atualmente estou aprendendo **[Tecnologia ou Framework Atual]**
-- 🔭 Estou trabalhando em **[Nome do Projeto ou Tecnologia]**
-- 👯 Estou procurando colaborar em **[Tipo de Projetos ou Tecnologias]**
-- 💬 Pergunte-me sobre **[Tecnologias ou Tópicos]**
-- 📫 Como me encontrar: **[Seu Email]**
-
+- 🌱 Atualmente estou aprendendo **[JavaScript]**
+- 🔭 Estou trabalhando em **[Desenvolvimento Web (Freelance)]**
+- 
 ## Habilidades
 
 ### Linguagens de Programação

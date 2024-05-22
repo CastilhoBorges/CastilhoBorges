@@ -29,7 +29,7 @@ Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolu
 
 Site criado usando HTML5 e CSS e um pouco de JavaScript para a garagem Madson Veículos.
 
-### [Cadastro de Clientes](https://github.com/seu-usuario/projeto2)
+### [Cadastro de Clientes](https://castilhoborges.github.io/cadastro/cadastro.html)
 
 Projeto simples de tirar e remover clientes de uma ARRAY usando JavaScript.
 

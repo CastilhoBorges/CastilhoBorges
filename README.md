@@ -25,11 +25,11 @@ Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolu
 
 ## Projetos
 
-### [Projeto 1](https://github.com/seu-usuario/projeto1)
+### [Primeiro Site](https://github.com/seu-usuario/projeto1)
 
 Site criado usando HTML5 e CSS e um pouco de JavaScript para a garagem Madson Veículos.
 
-### [Projeto 2](https://github.com/seu-usuario/projeto2)
+### [Cadastro de Clientes](https://github.com/seu-usuario/projeto2)
 
 Projeto simples de tirar e remover clientes de uma ARRAY usando JavaScript.
 

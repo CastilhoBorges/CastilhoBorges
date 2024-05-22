@@ -1,14 +1,12 @@
 # Olá Mundo, eu sou Augusto Castilho! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=green)
-
 ## Sobre mim
 
 Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolução constante.
 
 - 🌱 Atualmente estou aprendendo **JavaScript e React.js**
 - 🔭 Estou trabalhando em **Desenvolvimento Web (Freelance)**
-- 
+ 
 ## Habilidades
 
 ### Linguagens de Programação
@@ -27,7 +25,7 @@ Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolu
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-castilho-borges-5ab5a0297/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)

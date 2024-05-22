@@ -6,42 +6,24 @@
 
 Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolução constante.
 
-- 🌱 Atualmente estou aprendendo **[JavaScript]**
-- 🔭 Estou trabalhando em **[Desenvolvimento Web (Freelance)]**
+- 🌱 Atualmente estou aprendendo **JavaScript e React.js**
+- 🔭 Estou trabalhando em **Desenvolvimento Web (Freelance)**
 - 
 ## Habilidades
 
 ### Linguagens de Programação
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks e Bibliotecas
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Ferramentas e Plataformas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Projetos
-
-### [Projeto 1](https://github.com/seu-usuario/projeto1)
-
-Descrição breve do projeto 1. Fale sobre o que ele faz, quais tecnologias foram utilizadas, e qualquer outra informação relevante.
-
-### [Projeto 2](https://github.com/seu-usuario/projeto2)
-
-Descrição breve do projeto 2. Fale sobre o que ele faz, quais tecnologias foram utilizadas, e qualquer outra informação relevante.
-
-### [Projeto 3](https://github.com/seu-usuario/projeto3)
-
-Descrição breve do projeto 3. Fale sobre o que ele faz, quais tecnologias foram utilizadas, e qualquer outra informação relevante.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Contato
 
@@ -49,7 +31,3 @@ Descrição breve do projeto 3. Fale sobre o que ele faz, quais tecnologias fora
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-
----
-
-⭐️ Baseado em [GitHub Readme Templates](https://github.com/othneildrew/Best-README-Template)

@@ -4,7 +4,7 @@
 
 Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolução constante.
 
-- 🌱 Atualmente estou aprendendo **JavaScript e React.js**
+- 🌱 Atualmente estou aprendendo **JavaScript**
 - 🔭 Estou trabalhando em **Desenvolvimento Web (Freelance)**
  
 ## Habilidades

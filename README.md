@@ -6,7 +6,7 @@ Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolu
 
 - 🌱 Atualmente estou aprendendo **JavaScript**
 - 🔭 Estou trabalhando em **Desenvolvimento Web (Freelance)**
- 
+
 ## Habilidades
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +24,12 @@ Site criado usando HTML5 e CSS e um pouco de JavaScript para a garagem Madson Ve
 ### [Cadastro de Clientes](https://castilhoborges.github.io/cadastro/cadastro.html)
 
 Projeto simples de tirar e remover clientes de uma ARRAY usando JavaScript.
+
+## Portfólio
+
+Confira meu portfólio completo no meu site:
+
+### [Meu Portfólio](https://castilhoborges.github.io/my-portfolio/)
 
 ## Contato
 

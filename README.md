@@ -18,16 +18,6 @@ Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projetos
-
-### [Primeiro Site](https://castilhoborges.github.io/MadsonVeiculos.2/)
-
-Site criado usando HTML5 e CSS e um pouco de JavaScript para a garagem Madson Veículos.
-
-### [Cadastro de Clientes](https://castilhoborges.github.io/cadastro/cadastro.html)
-
-Projeto simples de tirar e remover clientes de uma ARRAY usando JavaScript.
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-castilho-borges-5ab5a0297/)

@@ -4,7 +4,7 @@
 
 Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolução constante.
 
-- 🌱 Atualmente estou aprendendo **JavaScript**
+- 🌱 Atualmente estou aprendendo **NodeJS**
 - 🔭 Estou trabalhando em **Desenvolvimento Web (Freelance)**
 
 ## Portfólio

@@ -5,7 +5,7 @@
 Eu sou um Desenvolvedor Web apaixonado por tecnologia e sempre em busca de evolução constante.
 
 - 🌱 Atualmente estou aprendendo **React** e **PostgreSQL**
-- 🔭 Estou trabalhando em **Desenvolvimento Web (Freelance)**
+- 🔭 Estou trabalhando como **Analista e Desenvolvedor de software** na Harpoon
 
 ## Portfólio
 

@@ -11,7 +11,7 @@ Eu sou um Desenvolvedor Full Stack apaixonado em resolver problemas.
 
 ### [Meu Portfólio](https://castilhoborges.github.io/my-portfolio/)
 
-## Habilidades
+## Techs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)

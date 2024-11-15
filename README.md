@@ -21,6 +21,7 @@ Eu sou um Desenvolvedor Full Stack apaixonado em resolver problemas.
 ## Ferramentas 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-5865F2?style=for-the-badge&logo=excalidraw&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ## Contato

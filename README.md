@@ -4,7 +4,7 @@
 
 Eu sou um Desenvolvedor Full Stack apaixonado em resolver problemas.
 
-- 🌱 Atualmente estou aprendendo **SQL**
+- 🌱 Atualmente estou aprendendo **C#**
 - 🔭 Estou trabalhando como **Analista e Desenvolvedor de software** na Harpoon - Plataforma de ABM
 
 ## Portfólio

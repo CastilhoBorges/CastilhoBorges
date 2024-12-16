@@ -4,7 +4,6 @@ Sou o Augusto, Desenvolvedor de Software com experiência no desenvolvimento web
 
 Possuo sólida experiência em TypeScript/JavaScript, desenvolvimento back-end com Node.js e Express, bancos de dados SQL, e front-end com React. Meu objetivo é sempre entregar soluções que combinem funcionalidade, performance e uma estrutura sólida, contribuindo para o sucesso de cada projeto em que atuo.
 
----
 # Techs and Tools
 
 <div align="left">
@@ -31,7 +30,6 @@ Possuo sólida experiência em TypeScript/JavaScript, desenvolvimento back-end c
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
----
 # My social-network
 
 <div align="right">

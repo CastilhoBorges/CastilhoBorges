@@ -5,6 +5,7 @@ Sou o Augusto, Desenvolvedor de Software com experiência no desenvolvimento web
 Possuo sólida experiência em TypeScript/JavaScript, desenvolvimento back-end com Node.js e Express, bancos de dados SQL, e front-end com React. Meu objetivo é sempre entregar soluções que combinem funcionalidade, performance e uma estrutura sólida, contribuindo para o sucesso de cada projeto em que atuo.
 
 ---
+# Techs and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -31,6 +32,7 @@ Possuo sólida experiência em TypeScript/JavaScript, desenvolvimento back-end c
 </div>
 
 ---
+# My social-network
 
 <div align="right">
   <a href="https://www.youtube.com/@castilhoBorges" target="_blank">

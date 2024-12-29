@@ -2,7 +2,7 @@
 
 Sou o Augusto, Desenvolvedor de Software com experiência no desenvolvimento web full stack, focado em resolver problemas de forma eficiente e pragmática. Minha abordagem prioriza a identificação e solução inicial dos problemas, seguida pelo refinamento para entregar aplicações escaláveis, bem arquitetadas e de alto desempenho.
 
-Possuo sólida experiência em TypeScript/JavaScript, desenvolvimento back-end com Node.js e Express, bancos de dados SQL, e front-end com React. Meu objetivo é sempre entregar soluções que combinem funcionalidade, performance e uma estrutura sólida, contribuindo para o sucesso de cada projeto em que atuo.
+Possuo sólida experiência em TypeScript/JavaScript, desenvolvimento back-end com Node.js, bancos de dados SQL e NoSQL, e front-end com React. Meu objetivo é sempre entregar soluções que combinem funcionalidade, performance e uma estrutura sólida, contribuindo para o sucesso de cada projeto em que atuo.
 
 # Techs and Tools
 

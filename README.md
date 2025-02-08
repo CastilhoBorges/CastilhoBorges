@@ -1,56 +1,76 @@
-# Olá Mundo! 
+<h1 align="center">Hi there, I'm Augusto Castilho Borges! 👋</h1>
 
-Sou o Augusto, Desenvolvedor de Software com experiência no desenvolvimento web full stack, focado em resolver problemas de forma eficiente e pragmática. Minha abordagem prioriza a identificação e solução inicial dos problemas, seguida pelo refinamento para entregar aplicações escaláveis, bem arquitetadas e de alto desempenho.
+<p align="center">
+  <b>Full-Stack Developer | Content Creator</b>
+</p>
 
-Possuo sólida experiência em TypeScript/JavaScript, desenvolvimento back-end com Node.js, bancos de dados SQL e NoSQL, e front-end com React. Meu objetivo é sempre entregar soluções que combinem funcionalidade, performance e uma estrutura sólida, contribuindo para o sucesso de cada projeto em que atuo.
-
-# Techs and Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
-
-# My social-network
-
-<div align="right">
-  <a href="https://www.youtube.com/@castilhoBorges" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    🌍 Visit My Portfolio
   </a>
-  <a href="https://www.linkedin.com/in/augusto-castilho-borges-5ab5a0297/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/CastilhoDeve" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="augusto_cborges" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://dev.to/castilhoborges" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="a.castilhoborges@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
+
+## 🚀 About Me  
+
+I'm **Augusto Castilho Borges**, a **full-stack developer** with a focus on **backend**.  
+My main programming language is **TypeScript**, and I work with:  
+
+- **SQL & NoSQL databases**  
+- **Caching strategies & security**  
+- **Best development practices**  
+
+Beyond coding, I'm also a **content creator**, sharing insights on **technology** and **personal development**.  
+In my free time, I enjoy turning my thoughts into content, making ideas more useful for others.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### **💻 Techs**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **🔥 Skills**  
+- **English** 🇬🇧  
+- **Runner** 🏃‍♂️  
+- **Computer Networks** 🌐  
+- **CI/CD** 🔄  
+- **Backend & Frontend Development** 💻  
+- **SQL & NoSQL Databases** 🗄️  
+- **SOLID Principles** 🛠️  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📬 Let's Connect  
+
+💼 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
+🐦 **Twitter:** [@your-twitter-handle](https://twitter.com/)  
+💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/)  
+📧 **Email:** your-email@example.com  
+
+---
+
+🔥 Always learning, building, and sharing!  
+Thanks for visiting my profile! 🚀  

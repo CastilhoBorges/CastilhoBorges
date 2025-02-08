@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="(https://o-augusto-portfolio.vercel.app/" target="_blank">
     🌍 Visit My Portfolio
   </a>
 </p>
@@ -51,26 +51,3 @@ In my free time, I enjoy turning my thoughts into content, making ideas more use
 - **Backend & Frontend Development** 💻  
 - **SQL & NoSQL Databases** 🗄️  
 - **SOLID Principles** 🛠️  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📬 Let's Connect  
-
-💼 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
-🐦 **Twitter:** [@your-twitter-handle](https://twitter.com/)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/)  
-📧 **Email:** your-email@example.com  
-
----
-
-🔥 Always learning, building, and sharing!  
-Thanks for visiting my profile! 🚀  

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://o-augusto-portfolio.vercel.app/" target="_blank">
+  <a href="https://o-augusto-portfolio.vercel.app/" target="_blank">
     🌍 Visit My Portfolio
   </a>
 </p>

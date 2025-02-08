@@ -18,8 +18,7 @@ I'm **Augusto Castilho Borges**, a **full-stack developer** with a focus on **ba
 My main programming language is **TypeScript**, and I work with:  
 
 - **SQL & NoSQL databases**  
-- **Caching strategies & security**  
-- **Best development practices**  
+- **Security & best development practices**  
 
 Beyond coding, I'm also a **content creator**, sharing insights on **technology** and **personal development**.  
 In my free time, I enjoy turning my thoughts into content, making ideas more useful for others.  

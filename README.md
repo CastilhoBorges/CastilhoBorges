@@ -19,7 +19,7 @@ I am a full stack developer, always seeking continuous learning to deliver effic
 💡 My key skills:
 ✅ Full Stack Development with TypeScript, NestJS, and Next.js
 ✅ Previous experience with C# and ASP.NET
-✅ Cloud Computing: AWS (various services) and experience with Azure
+✅ Cloud Computing: AWS
 ✅ Databases: SQL and NoSQL
 ✅ CI/CD Pipelines
 ✅ Caching & Messaging Services

@@ -14,14 +14,17 @@
 
 ## 🚀 About Me  
 
-I'm **Augusto Castilho Borges**, a **full-stack developer** with a focus on **backend**.  
-My main programming language is **TypeScript**, and I work with:  
+I am a full stack developer, always seeking continuous learning to deliver efficient and scalable solutions. I have experience in developing and deploying web applications, combining performance, security, and best software engineering practices.
 
-- **SQL & NoSQL databases**  
-- **Security & best development practices**  
-
-Beyond coding, I'm also a **content creator**, sharing insights on **technology** and **personal development**.  
-In my free time, I enjoy turning my thoughts into content, making ideas more useful for others.  
+💡 My key skills:
+✅ Full Stack Development with TypeScript, NestJS, and Next.js
+✅ Previous experience with C# and ASP.NET
+✅ Cloud Computing: AWS (various services) and experience with Azure
+✅ Databases: SQL and NoSQL
+✅ CI/CD Pipelines
+✅ Caching & Messaging Services
+✅ Unit and Integration Testing to ensure code quality and reliability
+✅ Experience with Windows and Linux for development
 
 ---
 
@@ -41,12 +44,3 @@ In my free time, I enjoy turning my thoughts into content, making ideas more use
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **🔥 Skills**  
-- **English** 🇬🇧  
-- **Runner** 🏃‍♂️  
-- **Computer Networks** 🌐  
-- **CI/CD** 🔄  
-- **Backend & Frontend Development** 💻  
-- **SQL & NoSQL Databases** 🗄️  
-- **SOLID Principles** 🛠️  

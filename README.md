@@ -14,17 +14,17 @@
 
 ## 🚀 About Me  
 
-I am a full stack developer, always seeking continuous learning to deliver efficient and scalable solutions. I have experience in developing and deploying web applications, combining performance, security, and best software engineering practices.
+Junior Full Stack Developer | Node | TypeScript | NestJS | Next.js | AWS
 
-💡 My key skills:
-✅ Full Stack Development with TypeScript, NestJS, and Next.js
-✅ Previous experience with C# and ASP.NET
-✅ Cloud Computing: AWS
-✅ Databases: SQL and NoSQL
-✅ CI/CD Pipelines
-✅ Caching & Messaging Services
-✅ Unit and Integration Testing to ensure code quality and reliability
-✅ Experience with Windows and Linux for development
+I’m a full stack developer with a strong focus on backend development, dedicated to building efficient and scalable web solutions. My core expertise lies in the JavaScript/TypeScript ecosystem, where I develop robust applications using NestJS, complemented by frontend skills with Next.js.
+
+I also have previous experience with C# in developing RESTful APIs. I work with both SQL databases (PostgreSQL, using TypeORM) and NoSQL databases (MongoDB), choosing the most suitable technology for each project requirement.
+
+On the cloud infrastructure side, I implement scalable architectures using AWS services such as S3, EC2, and SQS. My workflow includes DevOps practices with CI/CD pipelines, performance optimization with Redis caching, and integration of messaging systems like SQS and Kafka. I ensure software quality through automated testing with Jest and have experience in both Windows and Linux environments.
+
+Beyond technical skills, I stand out for my time management, creativity (reflected in my work as a content creator), resilience, effective communication, and critical thinking.
+
+I’m always seeking new challenges where I can apply and expand my backend skills, contributing to innovative projects in the tech industry.
 
 ---
 

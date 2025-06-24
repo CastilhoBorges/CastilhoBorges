@@ -14,17 +14,17 @@
 
 ## 🚀 About Me  
 
-Junior Full Stack Developer | Node | TypeScript | NestJS | Next.js | AWS
+Full Stack Developer | Node | TypeScript | AWS | NestJS | Next.js
 
-I’m a full stack developer with a strong focus on backend development, dedicated to building efficient and scalable web solutions. My core expertise lies in the JavaScript/TypeScript ecosystem, where I develop robust applications using NestJS, complemented by frontend skills with Next.js.
+I am a full stack developer with a strong focus on backend, passionate about creating efficient and scalable web solutions that truly make a difference in people’s and companies’ daily lives. My main expertise is in the Node.js ecosystem, where I use NestJS to build robust and secure applications. On the frontend, I have experience with Next.js, which allows me to deliver complete projects, from the database to the user interface.
 
-I also have previous experience with C# in developing RESTful APIs. I work with both SQL databases (PostgreSQL, using TypeORM) and NoSQL databases (MongoDB), choosing the most suitable technology for each project requirement.
+I have also worked with C#, developing REST APIs, and I am comfortable working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases, always choosing the best technology for each challenge.
 
-On the cloud infrastructure side, I implement scalable architectures using AWS services such as S3, EC2, and SQS. My workflow includes DevOps practices with CI/CD pipelines, performance optimization with Redis caching, and integration of messaging systems like SQS and Kafka. I ensure software quality through automated testing with Jest and have experience in both Windows and Linux environments.
+On the infrastructure side, I work with AWS, implementing scalable and resilient architectures using services like S3, EC2, Lambda, API Gateway, and SQS. I care deeply about the quality of what I deliver, so I invest in automated testing and best development practices. I have experience in both Windows and Linux environments.
 
-Beyond technical skills, I stand out for my time management, creativity (reflected in my work as a content creator), resilience, effective communication, and critical thinking.
+Beyond technical skills, I believe soft skills make all the difference: I am organized, creative (I also work as a content creator), resilient in the face of challenges, communicate clearly, and have a critical eye for suggesting improvements.
 
-I’m always seeking new challenges where I can apply and expand my backend skills, contributing to innovative projects in the tech industry.
+I am always looking for new challenges that allow me to grow, learn, and contribute to innovative projects.
 
 ---
 

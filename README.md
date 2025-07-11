@@ -16,7 +16,7 @@
 
 Fullstack Developer | Node | TypeScript | AWS | Java | Next.js
 
-Software Developer with 1.5 years of solid experience in creating, maintaining, and evolving critical B2B applications. My role extends beyond coding; I actively participate in strategic product decisions, ensuring that developed solutions align with business and client needs.
+Software Developer with experience in creating, maintaining, and evolving critical B2B applications. My role extends beyond coding; I actively participate in strategic product decisions, ensuring that developed solutions align with business and client needs.
 
 I'm proficient in the Node.js and Java ecosystems, with experience in microservices architectures and deployment on AWS cloud. I have practical experience with essential services like S3, EC2, SQS, Lambda, API Gateway, CloudFront, and CloudWatch, optimizing application performance and scalability. I've worked with Next.js to build dynamic, high-performance interfaces, in addition to Postgres (relational) and MongoDB (non-relational) databases, and caching services like Redis, to build robust and efficient systems.
 

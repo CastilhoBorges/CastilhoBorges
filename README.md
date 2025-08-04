@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://oaugustoo.com.br/" target="_blank">
+  <a href="https://oaugusto.com/" target="_blank">
     🌍 Visit My Web Site
   </a>
 </p>
@@ -16,13 +16,13 @@
 
 Fullstack Developer | Node | TypeScript | AWS | Java | Next.js
 
-Software Developer with experience in creating, maintaining, and evolving critical B2B applications. My role extends beyond coding; I actively participate in strategic product decisions, ensuring that developed solutions align with business and client needs.
+Software Developer with experience in creating, maintaining, and evolving critical applications in the B2B market. My role goes beyond coding: I actively participate in strategic product decisions, ensuring that the solutions developed are aligned with business and customer needs.
 
-I'm proficient in the Node.js and Java ecosystems, with experience in microservices architectures and deployment on AWS cloud. I have practical experience with essential services like S3, EC2, SQS, Lambda, API Gateway, CloudFront, and CloudWatch, optimizing application performance and scalability. I've worked with Next.js to build dynamic, high-performance interfaces, in addition to Postgres (relational) and MongoDB (non-relational) databases, and caching services like Redis, to build robust and efficient systems.
+I am proficient in the Node.js and Java ecosystems, with experience in microservices architectures and cloud deployment on AWS. I have hands-on experience with services such as S3, EC2, SQS, Lambda, API Gateway, CloudFront, and CloudWatch, optimizing application performance and scalability. I work with Next.js to build dynamic, high-performance interfaces, and use relational databases like Postgres and non-relational ones like MongoDB, as well as caching services such as Redis, to develop robust and efficient systems.
 
-My work methodology is based on software engineering best practices and the creation of comprehensive automated tests. I'm experienced in building CI/CD pipelines using GitHub Actions, ensuring continuous and high-quality deliveries.
+My work methodology is grounded in software engineering best practices, including the creation of comprehensive automated tests. I have experience building CI/CD pipelines using GitHub Actions, ensuring continuous and high-quality deliveries.
 
-Beyond my technical skills, my soft skills are a key differentiator: I'm organized, creative (also acting as a content creator), resilient in the face of complex challenges, and possess clear and effective communication. My ability to maintain a critical perspective allows me to identify and propose continuous improvements in processes and products, adding significant value to the teams and projects I join.
+In addition to my technical skills, my soft skills are a strong asset: I am organized, creative (including as a digital content creator), resilient when facing complex challenges, and have clear and effective communication. My ability to think critically allows me to identify and propose continuous improvements to processes and products, adding significant value to the teams and projects I am part of.
 
 ---
 
